@@ -11,7 +11,7 @@ class PizzaCalc:
         self.main = tkinter.Tk()
 
         #adjusting size of window and title
-        self.main.geometry("1080x720")
+        self.main.geometry("480x480")
         self.main.title("Pizza Calculator")
         self.main.configure(bg='orange')
 
