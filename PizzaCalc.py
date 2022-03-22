@@ -1,7 +1,5 @@
-from msilib.schema import Class
 import tkinter
 import tkinter.messagebox
-from turtle import left
 
 
 class PizzaCalc:
